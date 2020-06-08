@@ -83,6 +83,7 @@ position: absolute;
 
     .bottom {
         font-size: 70%;
+        display: none;
     }
 }
 
