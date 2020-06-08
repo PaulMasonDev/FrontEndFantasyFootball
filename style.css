@@ -77,6 +77,10 @@ position: absolute;
         font-size: 70%;
     }
 
+    #musicButton {
+        display: none;
+    }
+
     .bottom {
         font-size: 70%;
     }
